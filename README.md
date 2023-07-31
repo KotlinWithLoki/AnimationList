@@ -7,5 +7,5 @@
 
 # Qo'shimcha
 <h3>
-Dastur hech nima talab qilmaydi!, shunchaki run qilish o'zi yetarli!
+Dastur hech nima talab qilmaydi!, shunchaki run qilish o'zi yetarli!, Bu JetpackCompose!
 </h3>
